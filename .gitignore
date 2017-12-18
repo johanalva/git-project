@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 git-project.Rproj
+packrat/lib*/
+packrat/src/
